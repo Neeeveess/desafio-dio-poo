@@ -24,12 +24,12 @@ public class Main {
         mentoria1.setDescricao("Mentoria de carreira");
         mentoria1.setData(LocalDate.now());
 
-//        out.println(curso1);
-//        out.println(curso1.calcularXp());
-//        out.println(curso2);
-//        out.println(curso2.calcularXp());
-//        out.println(mentoria1);
-//        out.println(mentoria1.calcularXp());
+        out.println(curso1);
+        out.println(curso1.calcularXp());
+        out.println(curso2);
+        out.println(curso2.calcularXp());
+        out.println(mentoria1);
+        out.println(mentoria1.calcularXp());
 
         Bootcamp bootcamp = new Bootcamp();
         bootcamp.setNome("Bootcamp Java Developer");
