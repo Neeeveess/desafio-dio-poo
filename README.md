@@ -8,6 +8,7 @@ Basicamente um projeto para aplicar conceitos de POO, simulando um Bootcamp, ond
 ## Tecnologias utilizadas
 
 - Java
+- Lombok
 
 ## Iniciando projeto
 Para iniciar a aplicação basta executar a classe `Main.java`.
